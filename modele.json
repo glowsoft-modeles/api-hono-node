@@ -1,0 +1,7 @@
+{
+  "id": "api-hono-node",
+  "nom": "API Hono",
+  "cadriciel": "node",
+  "categorie": "api",
+  "variables": []
+}
